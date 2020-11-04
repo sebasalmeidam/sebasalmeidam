@@ -7,5 +7,12 @@
 - 📫 How to reach me: Email me or Linkedin DM
 - 😄 Languages: Spanish and English
 
-- ⚡ About me: I start working as a business consultant in 2008. In 2015 I felt in love with coding and have been working as a developer since then. I'm currently learning Machine Learning to understand its scope, to later include it in web development and be able to create new commercial solutions.
+- ⚡ About me: 
 
+More than 5 years of experience working with Ruby on Rails and 2 years with React (2020).
+
+I have created several apps for my current company, from time tracking to CRM all with ROR and React features. My current project is: www.tfcsmart.com It´s a SAAS webapp, B2B model, with more than 1.000 users (including some of the biggest Ecuadorian companies) that generates individuals, comparatives, and sectorial financial analysis of all Ecuadorian companies.
+
+Before becoming a full-time web developer, I was a business consultant for more than 8 years, I'm a project manager professional (PMP certified), I have a certification in Business Modeling from Wharton (UPenn), so I understand clients and business needs and how to find different approaches to solve problems.
+
+For recreational proposes, I have created several apps, including a react native app to track fifa-17 (game) players prices, an e-commerce webapp, many companies’ webpages, elastic-search integration, among others.
